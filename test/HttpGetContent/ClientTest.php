@@ -1,6 +1,6 @@
 <?php
 
-use HttpGetContent\Client;
+use HttpGetContents\Client;
 
 class ClientTest extends PHPUnit_Framework_TestCase
 {
