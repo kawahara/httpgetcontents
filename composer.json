@@ -1,0 +1,21 @@
+{
+    "name": "kawahara/httpgetcontent",
+    "description": "HTTP Client by filegetcontents()",
+    "keywords": ["HTTP", "Client"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shogo Kawahara",
+            "email": "kawahara@bucyou.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HttpGetContent": "lib/"
+        }
+    }
+}
