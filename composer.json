@@ -1,5 +1,5 @@
 {
-    "name": "kawahara/httpgetcontent",
+    "name": "kawahara/httpgetcontents",
     "description": "HTTP Client by filegetcontents()",
     "keywords": ["HTTP", "Client"],
     "type": "library",
